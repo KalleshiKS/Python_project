@@ -1,0 +1,5 @@
+user_name = "root"
+password = "Kallesh@143"
+database_name = "Marlabs"
+s_email = "kskallesh70@gmail.com"
+s_password = "kallesh@143"
